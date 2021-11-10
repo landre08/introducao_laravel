@@ -19,7 +19,7 @@ _Ferramentas utilizadas:_
 - `HTML5`
 - `CSS`
 - `Laravel 5.3`
-- Apache2
+- nginx/1.18.0
 - Git/GitHub
 - VSCode
 - Linux Ubuntu Desktop 18.04
@@ -32,4 +32,4 @@ _Ferramentas utilizadas:_
 >
 > _Curróculo Lattes:_http://lattes.cnpq.br/0705542673537509
 
-**Abraços, Luciano André**
+**Abraços, Luciano da S C André**
